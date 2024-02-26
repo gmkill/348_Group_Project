@@ -1,0 +1,39 @@
+#This is just a template, delete this before turning in
+
+Meeting starts: 
+Purpose: throw rocks
+Attendance: David S, Daniel B, Lily Gray, Fatima Avila Cobian (very cool name), Gaby Kill
+
+What we did:
+David threw a rock at the tv so hard it turned into a steak dinner
+
+Meeting end: time
+
+========
+
+
+Meeting starts: February 12, 3:00 pm
+Purpose: Discuss roles and the coding part of the project
+Attendance: David S, Daniel B, Lily Gray, Fatima Avila Cobian
+
+What we did:
+We got to know each other and talked about the coding part of the project (now invalid as we were discussing the calculator which was last years project)
+
+
+Meeting end: 4:30 pm
+
+========
+
+
+Meeting starts: February 21, 3:00 pm
+Purpose: Work on Project Management Plan and develop strategy for coding project
+Attendance: David S, Daniel B, Lily Gray
+
+What we did: David got a logic gate working with &,|,XOR,@. David, Daniel, and Lily had a brainstorming session about how to parse through expressions with extraneous information. We want to create one stack that stores the expression from left to right until it reaches the first right parentheses. Then, we want to evaluate the expression inside the parentheses and store the results in another stack. Repeat until done.
+
+Meeting end: 4:30 pm
+========
+
+Meeting starts: February 25, 6:30 pm
+Purpose: Finalize Project Management Plan
+
